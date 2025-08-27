@@ -29,6 +29,8 @@ module InflectorTestCases
     "wife"        => "wives",
     "safe"        => "saves",
     "half"        => "halves",
+    "cave"        => "caves",
+    "wave"        => "waves",
 
     "move"        => "moves",
 
